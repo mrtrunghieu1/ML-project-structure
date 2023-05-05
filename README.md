@@ -35,4 +35,4 @@ The template of machine learning projects looks like this:
 ├── requirements.txt       <- Installing all modules/ libraries that are used in the projects.
 ```
 
-## Thank you for reading! Share your ❤️ by starring your machine learning project!
+## Thank you for reading! Share your ❤️ and then starting your machine learning project!
